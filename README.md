@@ -34,7 +34,7 @@ python ./src/plot.py
 
 To display compute steps methods on graphs:
 ```sh
-python ./src/computeACC.py
+python ./src/computeSteps.py
 ```
 
 To display tracking:
