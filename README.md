@@ -7,7 +7,7 @@ I implemented and used this localization technique for my internship at [Contine
 
 ![](./graphs/result.png)
 
-_For more details about the PDR, please refer to this [Article][wiki] or this [one][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6308848/pdf/sensors-18-04285.pdf].
+_For more details about the PDR, please refer to this [Article][wiki] or this [one][wiki3].
 
 _For more details about my internship, please email me at *aymane.lamhamdi@continental-corporation.com*
 
@@ -75,3 +75,4 @@ python ./src/deadreckoning.py
 [wiki]: https://www.researchgate.net/publication/
 [continental]: https://www.continental.com/en/336369807_PEDESTRIAN_DEAD_RECKONING_USING_SMARTPHONES_SENSORS_AN_EFFICIENT_INDOOR_POSITIONING_SYSTEM_IN_COMPLEX_BUILDINGS_OF_SMART_CITIES
 [wiki2]: https://en.wikipedia.org/wiki/Dead_reckoning
+[wiki3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6308848/pdf/sensors-18-04285.pdf
