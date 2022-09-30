@@ -7,7 +7,7 @@ I implemented and used this localization technique for my internship at [Contine
 
 ![](./graphs/result.png)
 
-_For more details about the PDR, please refer to this [Article][wiki].
+_For more details about the PDR, please refer to this [Article][wiki] or this [one][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6308848/pdf/sensors-18-04285.pdf].
 
 _For more details about my internship, please email me at *aymane.lamhamdi@continental-corporation.com*
 
