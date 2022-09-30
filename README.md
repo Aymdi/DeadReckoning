@@ -1,7 +1,7 @@
 # Dead Reckoning
 > pedestrian dead reckoning using phone sensors.
 
-Indoor positioning method using *Pedestrian Dead Reckoning* (PDR) based on phone sensors data: Accelerometer, Magnetometer and Gyroscope.
+Indoor positioning method using *Pedestrian Dead Reckoning* ([PDR][wiki2]) based on phone sensors data: Accelerometer, Magnetometer and Gyroscope.
 
 I implemented and used this localization technique for my internship at [Continental][continental]: **Implementation and optimization of a localization system for connected vehicles**, supervised by [CHEIKH Mohamed](mohamed.cheikh@continental-corporation.com)
 
@@ -73,3 +73,4 @@ python ./src/deadreckoning.py
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://www.researchgate.net/publication/
 [continental]: https://www.continental.com/en/336369807_PEDESTRIAN_DEAD_RECKONING_USING_SMARTPHONES_SENSORS_AN_EFFICIENT_INDOOR_POSITIONING_SYSTEM_IN_COMPLEX_BUILDINGS_OF_SMART_CITIES
+[wiki2]: https://en.wikipedia.org/wiki/Dead_reckoning
