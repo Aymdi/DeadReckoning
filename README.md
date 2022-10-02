@@ -9,7 +9,7 @@ I implemented and used this localization technique for my internship at [Contine
 
 _For more details about the PDR, please refer to this [Article][wiki] or this [one][wiki3].
 
-_For more details about my internship, please email me at *aymane.lamhamdi@continental-corporation.com*
+_For more details about my internship, please email me at ~~*aymane.lamhamdi@continental-corporation.com*~~ *aymane.lamhamdi@bordeaux-inp.fr*
 
 
 
