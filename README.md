@@ -3,7 +3,7 @@
 
 Indoor positioning method using *Pedestrian Dead Reckoning* ([PDR][wiki2]) based on phone sensors data: Accelerometer, Magnetometer and Gyroscope.
 
-I implemented and used this localization technique for my internship at [Continental][continental]: **Implementation and optimization of a localization system for connected vehicles**, supervised by [CHEIKH Mohamed](mohamed.cheikh@continental-corporation.com).
+I implemented and used this localization technique for my internship at [Continental][continental]: **Implementation and optimization of a localization system for connected vehicles**.
 
 ![](./graphs/result.png)
 
@@ -11,7 +11,10 @@ _For more details about the PDR, please refer to this [Article][wiki] or this [o
 
 _For more details about my internship, please email me at ~~*aymane.lamhamdi@continental-corporation.com*~~ *aymane.lamhamdi@bordeaux-inp.fr*
 
+## Tools
 
+- Phyphox
+- Android Studio
 
 ## Demos
 
